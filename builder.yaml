@@ -1,7 +1,0 @@
-components:
-  - name: web
-    role: web
-    platform: php
-    platformVersion: "8.5"
-    run:
-      healthCheckPath: /health.php
